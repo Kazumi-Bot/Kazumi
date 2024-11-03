@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="498055e4-d03d-4826-95f9-00eb966b27b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Kazumi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_webServer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/Bot Features/Welcome_Message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/Bot Features/create_Temp_VChannel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/DeveloperCredits/creator_Links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/Guild Logs/Member_Join_Leave_Log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/Guild Logs/Member_Logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/Moderation/Chat Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/Moderation/Moderation_Cmd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/Moderation/verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/PersistentButtonViews/ClassMenu_Picker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/PersistentButtonViews/Set_Events_Notification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/PersistentButtonViews/Ship_Embed_Application.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/PersistentButtonViews/Support_TicketSystem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/PrefixCommands/Guild_Database_Export.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/Schedule Messages/repeating_Notifications.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogs/Slashcommands/modal_Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="498055e4-d03d-4826-95f9-00eb966b27b5" name="Changes" comment="Intital Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AidanAli"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kazumi-Bot/Kazumi",
+    "accountId": "305978fa-e57e-4517-9d2d-224c8aa3d800"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -143,6 +128,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730477894832</updated>
     </task>
+    <task id="LOCAL-00001" summary="Intital Commit">
+      <option name="closed" value="true" />
+      <created>1730599938449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730599938449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intital Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intital Commit" />
   </component>
 </project>
